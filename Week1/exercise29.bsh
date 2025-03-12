@@ -1,0 +1,32 @@
+#! /bin/bash
+
+# extracting swissprotID and 3rd numerical data from ex1.tot
+cut -f1,5 ex1.tot > ex1.res
+
+# Find the 3 SwissProt ID's in ex1.res which have the largest number(s) in column 2, i.e. the top 3 entries. Display only the ID's.
+SwissprotIDs=`cut -f2 ex1.res | sort -nr | head -n 3 | grep -f - ex1.res | cut -f1`
+echo -e "The SwissProt ID's which have the 3 highest numbers are:"
+for SwissprotID in ${SwissprotIDs[@]}; do
+	echo $SwissprotID
+done
+
+#Find the lines (using grep) in orphans.sp which contain a Gen<F12Bank accession number. There are 85, verify this. Note: An accession number is one or two capital letters and looks like this 'AB000114.CDS.1', i.e. Some letters followed by some numbers. The .CDS. part is kind of optional.
+Accnumcount=`grep -Ec "[A-Z]+[0-9]{5,}\." orphans.sp|cat`
+echo -e "The number of Accession numbers is "$Accnumcount
+
+# How many human genes with SwissProt IDs in orphans.sp exist ? How many of those are hypothetical ? (11)
+genecount_tot=`grep -Ec "HUMAN" orphans.sp|cat`
+genecount_hyp=`grep -E "HUMAN" orphans.sp|grep -Ec "HYPOTHETICAL"|cat`
+
+echo -e "There are "$genecount_tot" Human genes \n"$genecount_hyp" of these are hypothetical"
+
+# How many genes belong to the rat, and how many of those are precursors ? (9) Note: A Swissprot ID looks like 'PARG_HUMAN' or 'TF1A_MOUSE', with the gene being before the underscore and the organism after the underscore.
+rat_genes=`grep -Ec "_RAT" orphans.sp|cat`
+rat_precursors=`grep -E "_RAT" orphans.sp|grep -Ec "PRECURSOR"|cat`
+echo "There are "$rat_genes" Rat genes. "$rat_precursors" are precursors"
+
+# How many genes belong to the rat, and how many of those are precursors ? (9) Note: A Swissprot ID looks like 'PARG_HUMAN' or 'TF1A_MOUSE', with the gene being before the underscore and the organism after the underscore.
+grep -Ev "-" > ex1.pos
+grep -E "-" > ex1.neg
+
+exit 0
