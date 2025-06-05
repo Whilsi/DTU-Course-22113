@@ -22,7 +22,7 @@ def DNA_to_AA(codon:str) -> str:
                   'AAA':'K','AAG':'K',
                   'CGT':'R','CGC':'R','CGA':'R','CGG':'R','AGA':'R','AGG':'R',
                   'TAA':'STOP','TAG':'STOP','TGA':'STOP'}
-    if isinstance(codon,str):
-        if codon.upper() in codon_dict:
-            return codon_dict[codon.upper()]
-    return None
+    if isinstance(codon,str) and codon.upper() in codon_dict:
+        return codon_dict[codon.upper()]
+    else:
+        return None
