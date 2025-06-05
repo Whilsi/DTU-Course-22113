@@ -24,10 +24,4 @@ def fastaread(filename:str) -> list:
         
         return header_list,sequence_list
     else:
-        return None
-    
-result = fastaread('dna7.fsa')
-print(result[0])
-print(result[1])
-
-            
+        return None     
