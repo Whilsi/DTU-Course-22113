@@ -13,6 +13,8 @@ for line in infile:
     elif ACC_match is not None:
         accession = ' '.join(line.split()[1:])
 
+infile.close()
+
 print('Accession number:',accession)
 print('Definition:',definition)
 print('Organism:',organism)
