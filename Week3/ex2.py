@@ -10,6 +10,8 @@ for line in infile:
 
     sequences += ''.join(line.split())
 
+infile.close()
+
 DNA_result = re.search(r'^([ATCG]+)$',sequences)
 Prot_result = re.search(r'^([GAVLITSMCPFYWHKRDENQ]+)$',sequences)
 if DNA_result is not None:
