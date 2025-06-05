@@ -19,5 +19,7 @@ for line in infile:
     elif flag and '"' in line:
         flag = False
         aminoacid_sequence += line.strip().split('"')[0]
+
+infile.close()
         
 print(aminoacid_sequence)
