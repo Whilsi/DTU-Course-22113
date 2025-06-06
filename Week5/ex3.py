@@ -26,11 +26,14 @@ for line in lines[2:]:
 if found:
     print('Cancer\tNo cancer')
     for i in range(max(len(data['1']),len(data['0']))):
-        try:
-            print(data['1'][i]+'\t'+data['0'][i])
-        except:
+        if len(data['1']) >= len(data['0']):
             try:
+                print(data['1'][i]+'\t'+data['0'][i])
+            except:
                 print(data['1'][i]+'\t')
+        else:
+            try:
+                print(data['1'][i]+'\t'+data['0'][i])
             except:
                 print('\t'+data['0'][i])
 else:
