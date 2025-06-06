@@ -12,14 +12,14 @@ def fastaread(filename:str) -> list:
 
         for line in infile:
             if line.startswith('>'):
-                if sequence_str is not '':
+                if sequence_str != '':
                     sequence_list.append(''.join(sequence_str.split()))
                     sequence_str = ''
                 header_list.append(line.strip())
             else:
                 sequence_str += line
 
-        if sequence_str is not '':
+        if sequence_str != '':
             sequence_list.append(''.join(sequence_str.split()))
         
         return header_list,sequence_list
