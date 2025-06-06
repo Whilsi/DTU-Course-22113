@@ -17,3 +17,17 @@ def complement_strand(DNA_sequence:str) -> str:
 from ex3 import fastaread
 from ex4 import fastawrite
 import sys
+
+infilename = sys.argv[1]
+outfilename = sys.argv[2]
+
+headers,sequences = fastaread(infilename)
+
+complement_headers = []
+complement_sequences = []
+
+for i in range(len(headers)):
+    complement_headers.append(headers[i]+' Complement strand')
+    complement_sequences.append(complement_strand(sequences[i]))
+
+fastawrite(outfilename,complement_headers,complement_sequences)
