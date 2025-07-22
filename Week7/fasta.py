@@ -41,16 +41,18 @@ class Fasta:
             except:
                 print('The index is out of range')
         else:
-            for i in range(start,end+1):
-                try:
+            try:
+                start = len(self.headers[:start])
+                end = len(self.headers[:end])
+                for i in range(start,end+1):
                     self.headers.pop(start)
                     self.sequences.pop(start)
-                except:
-                    print('The interval is out of range')
+            except:
+                print('The interval is out of range')
                 
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-# myfasta.delete(100)
-# print(myfasta.content())
+# myfasta.delete(0,-1)
+print(myfasta.content())
 myfasta.save("newfile.fsa")
