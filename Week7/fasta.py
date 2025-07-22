@@ -1,4 +1,6 @@
 class Fasta:
+    alphabets = {'DNA' : 'ATCG', 'RNA' : 'AUCG', 'Protein' : 'ILVFMCAGPTSYWQNHEDKR'}
+
     def load(self,filename:str):
         with open(filename) as infile:
             self.lines = infile.readlines()
@@ -62,11 +64,31 @@ class Fasta:
         else:
             self.headers.insert(position,header)
             self.sequences.insert(position,sequence)
-                    
+
+    def verify(self, alphabet,start:int = None, end:int = None):
+        if alphabet in Fasta.alphabets:
+            if start == None:
+                for sequence in self.sequences:
+                    for letter in sequence:
+                        if letter not in Fasta.alphabets[alphabet]:
+                            return False
+            elif end == None:
+                for letter in self.sequences[start]:
+                    if letter not in Fasta.alphabets[alphabet]:
+                        return False
+            else:
+                for sequence in self.sequences[start:end]:
+                    for letter in sequence:
+                        if letter not in Fasta.alphabets[alphabet]:
+                            return False
+            return True
+        else:
+            print('Alphabet not defined in class')
                 
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-print(myfasta.content(0,-2))
+print(myfasta.verify('DNA'))
+# print(myfasta.content(0,-2))
 # myfasta.delete(-2,-1)
-myfasta.save("newfile.fsa")
+# myfasta.save("newfile.fsa")
