@@ -104,13 +104,29 @@ class Fasta:
             self.headers = headers
             self.sequences = sequences
 
-
-                
+    def __len__(self):
+        return len(self.headers)
+    
+    def __iter__(self):
+        self.iterationPointer = 0
+        return self
+    
+    def __next__(self):
+        if self.iterationPointer == len(self):
+            raise StopIteration
+        self.iterationPointer += 1
+        return self.headers[self.iterationPointer-1],self.sequences[self.iterationPointer-1]   
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-print(myfasta.verify('DNA',-1))
+
+# if len(myfasta) > 0:
+#     for header, sequence in myfasta:
+#         print(header,'=====',sequence)
+
+# print(len(myfasta))
+# print(myfasta.verify('DNA',-1))
 # myfasta.discard('DNA',-1)
 # print(myfasta.content(0,-2))
 # myfasta.delete(-2,-1)
-myfasta.save("newfile.fsa")
+# myfasta.save("newfile.fsa")
