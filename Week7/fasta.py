@@ -65,7 +65,7 @@ class Fasta:
             self.headers.insert(position,header)
             self.sequences.insert(position,sequence)
 
-    def verify(self, alphabet,start:int = None, end:int = None):
+    def verify(self, alphabet, start:int = None, end:int = None):
         if alphabet in Fasta.alphabets:
             if start == None:
                 for sequence in self.sequences:
@@ -84,11 +84,33 @@ class Fasta:
             return True
         else:
             print('Alphabet not defined in class')
+
+    def discard(self, alphabet, start:int = None, end:int = None):
+        if alphabet in Fasta.alphabets:
+            start = len(self.headers[:start])
+            end = len(self.headers[:end])
+            headers = []
+            sequences = []
+            for i in range(len(self.headers)):
+                if self.verify(alphabet,i):
+                    headers.append(self.headers[i])
+                    sequences.append(self.sequences[i])
+                elif start != None and end == None and i != start:
+                    headers.append(self.headers[i])
+                    sequences.append(self.sequences[i])
+                elif start != None and end != None and i not in range(start,end):
+                    headers.append(self.headers[i])
+                    sequences.append(self.sequences[i])
+            self.headers = headers
+            self.sequences = sequences
+
+
                 
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-print(myfasta.verify('DNA'))
+print(myfasta.verify('DNA',-1))
+# myfasta.discard('DNA',-1)
 # print(myfasta.content(0,-2))
 # myfasta.delete(-2,-1)
-# myfasta.save("newfile.fsa")
+myfasta.save("newfile.fsa")
