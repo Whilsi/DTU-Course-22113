@@ -30,18 +30,27 @@ class Fasta:
         else:
             raise NameError('The file has not been loaded yet.')
         
-    def delete(self,position:list[int] = None):
-        if position == None:
+    def delete(self,start:int = None,end:int = None ):
+        if start == None:
             del self.headers
             del self.sequences
-        elif len(position) == 1:
-            self.headers.pop(position[0])
-            self.sequences.pop(position[0])
-        elif len(position) == 2:
-            for i in range(position[1]-position[0]):
+        elif end == None:
+            try:
+                self.headers.pop(start)
+                self.sequences.pop(start)
+            except:
+                print('The index is out of range')
+        else:
+            for i in range(start,end+1):
+                try:
+                    self.headers.pop(start)
+                    self.sequences.pop(start)
+                except:
+                    print('The interval is out of range')
                 
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-print(myfasta.content())
+# myfasta.delete(100)
+# print(myfasta.content())
 myfasta.save("newfile.fsa")
