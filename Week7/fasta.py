@@ -54,10 +54,19 @@ class Fasta:
                     self.sequences.pop(start)
             except:
                 print('The interval is out of range')
+    
+    def insert(self,header:str,sequence:str,position:int = None):
+        if position == None:
+            self.headers.append(header)
+            self.sequences.append(sequence)
+        else:
+            self.headers.insert(position,header)
+            self.sequences.insert(position,sequence)
+                    
                 
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
 print(myfasta.content(0,-2))
-myfasta.delete(-2,-1)
+# myfasta.delete(-2,-1)
 myfasta.save("newfile.fsa")
