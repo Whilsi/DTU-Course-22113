@@ -24,9 +24,14 @@ class Fasta:
                 for j in range(0,len(sequences[i]),60):
                     outfile.write(sequences[i][j:j+60]+'\n')
     
-    def content(self) -> list[list[str]]:
+    def content(self,start:int = None, end:int = None) -> list[list[str]]:
         if hasattr(self,'headers') and hasattr(self,'sequences'):
-            return self.headers,self.sequences
+            if start == None:
+                return self.headers,self.sequences
+            elif end == None:
+                return self.headers[start],self.sequences[start]
+            else:
+                return self.headers[start:end],self.sequences[start:end]
         else:
             raise NameError('The file has not been loaded yet.')
         
@@ -44,7 +49,7 @@ class Fasta:
             try:
                 start = len(self.headers[:start])
                 end = len(self.headers[:end])
-                for i in range(start,end+1):
+                for i in range(start,end):
                     self.headers.pop(start)
                     self.sequences.pop(start)
             except:
@@ -53,6 +58,6 @@ class Fasta:
         
 myfasta = Fasta()
 myfasta.load("dna7.fsa")
-# myfasta.delete(0,-1)
-print(myfasta.content())
+print(myfasta.content(0,-2))
+myfasta.delete(-2,-1)
 myfasta.save("newfile.fsa")
