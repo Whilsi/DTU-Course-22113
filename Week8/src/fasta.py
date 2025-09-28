@@ -2,21 +2,24 @@ class Fasta:
     alphabets = {'DNA' : 'ATCG', 'RNA' : 'AUCG', 'Protein' : 'ILVFMCAGPTSYWQNHEDKR'}
 
     def load(self,filename:str):
-        with open(filename) as infile:
-            self.lines = infile.readlines()
-            self.headers = []
-            self.sequences = []
-            sequence_str = ''
-            for line in self.lines:
-                if line.startswith('>'):
-                    if sequence_str != '':
-                        self.sequences.append(''.join(sequence_str.split()))
-                        sequence_str = ''
-                    self.headers.append(line.strip())
-                else:
-                    sequence_str += line
-            if sequence_str != '':
-                self.sequences.append(''.join(sequence_str.split()))
+        try:
+            with open(filename) as infile:
+                self.lines = infile.readlines()
+                self.headers = []
+                self.sequences = []
+                sequence_str = ''
+                for line in self.lines:
+                    if line.startswith('>'):
+                        if sequence_str != '':
+                            self.sequences.append(''.join(sequence_str.split()))
+                            sequence_str = ''
+                        self.headers.append(line.strip())
+                    else:
+                        sequence_str += line
+                if sequence_str != '':
+                    self.sequences.append(''.join(sequence_str.split()))
+        except:
+            raise FileNotFoundError('The file does not exist')
 
     def save(self,filename:str):
         with open(filename,'w') as outfile:
@@ -141,23 +144,25 @@ class Fasta:
             if not self.verifythis(alphabet):
                 self.deletethis()
         
-myfasta = Fasta()
-myfasta.load("dna7.fsa")
 
-# if len(myfasta) > 0:
-#     for header, sequence in myfasta:
-#         print(header,'=====',sequence)
-# print(len(myfasta))
-# print(myfasta.verify('DNA'))
-# myfasta.discard('DNA',-1)
-# print(myfasta.content(0,-2))
-# myfasta.delete(-2,-1)
+if __name__ == '__main__':        
+    myfasta = Fasta()
+    myfasta.load("dna7.fsa")
 
-for header, sequence in myfasta:
-    print(len(myfasta))
-    print(myfasta.iterationPointer)
-    if not myfasta.verifythis("DNA"):
-        print(header)
-        myfasta.deletethis()
+    # if len(myfasta) > 0:
+    #     for header, sequence in myfasta:
+    #         print(header,'=====',sequence)
+    # print(len(myfasta))
+    # print(myfasta.verify('DNA'))
+    # myfasta.discard('DNA',-1)
+    # print(myfasta.content(0,-2))
+    # myfasta.delete(-2,-1)
 
-myfasta.save("newfile.fsa")
+    for header, sequence in myfasta:
+        print(len(myfasta))
+        print(myfasta.iterationPointer)
+        if not myfasta.verifythis("DNA"):
+            print(header)
+            myfasta.deletethis()
+
+    myfasta.save("newfile.fsa")
