@@ -39,3 +39,8 @@ def test_4(tmp_path,myFasta):
     txt = infile.readlines()
     infile.close()
     assert txt == ['>very long sequence header that is definately longer than 60 characters\n','AGHDITGUCGSKFIUWNVISJFHVIWEMFKXVJFIJFLKJVIAKDUDNVIDNVUDYXBXG\n','SVCGSIWBSHTCHWGSGXYCBEYXFXBAKDYNWIXYAKAKVMNDJSHCJWUDNDHSDHUW\n','JNCUS\n'],'Long sequence'
+
+def test_5(tmp_path,myFasta):
+    filename = tmp_path / 'output.fsa'
+    with pytest.raises(AttributeError):
+        myFasta.save(filename)

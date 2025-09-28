@@ -52,7 +52,7 @@ class Fasta:
                 self.headers.pop(start)
                 self.sequences.pop(start)
             except:
-                print('The index is out of range')
+                raise IndexError('The index is out of range')
         else:
             try:
                 start = len(self.headers[:start])
@@ -61,7 +61,7 @@ class Fasta:
                     self.headers.pop(start)
                     self.sequences.pop(start)
             except:
-                print('The interval is out of range')
+                raise IndexError('The interval is out of range')
     
     def insert(self,header:str,sequence:str,position:int = None):
         if position == None:
@@ -150,22 +150,7 @@ class Fasta:
 
 if __name__ == '__main__':        
     myfasta = Fasta()
-    myfasta.load("dna7.fsa")
+    myfasta.load("/home/wsl_ubuntu/DTU/22113/Week7/dna7.fsa")
 
-    # if len(myfasta) > 0:
-    #     for header, sequence in myfasta:
-    #         print(header,'=====',sequence)
-    # print(len(myfasta))
-    # print(myfasta.verify('DNA'))
-    # myfasta.discard('DNA',-1)
-    # print(myfasta.content(0,-2))
-    # myfasta.delete(-2,-1)
-
-    for header, sequence in myfasta:
-        print(len(myfasta))
-        print(myfasta.iterationPointer)
-        if not myfasta.verifythis("DNA"):
-            print(header)
-            myfasta.deletethis()
-
-    myfasta.save("newfile.fsa")
+    myfasta.delete(0)
+    print(myfasta.headers[0])
