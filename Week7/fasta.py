@@ -111,35 +111,33 @@ class Fasta:
     
     def __iter__(self):
         self.iterationPointer = 0
-        self.deleted = False
         return self
     
     def __next__(self):
-        if self.iterationPointer == len(self):
+        if self.iterationPointer >= len(self):
             del self.iterationPointer
             raise StopIteration
-        if not self.deleted:
-            self.iterationPointer += 1
-        else:
-            self.deleted = False
+        self.iterationPointer += 1
+
         return self.headers[self.iterationPointer-1],self.sequences[self.iterationPointer-1]
 
     def deletethis(self):
-        if isinstance(self.iterationPointer,int):
-            self.delete(self.iterationPointer)
-            self.deleted = True
+        if isinstance(self.iterationPointer-1,int):
+            self.delete(self.iterationPointer-1)
+            self.iterationPointer -= 1
+            # self.deleted = True
     
     def insertthis(self,header,sequence):
-        if isinstance(self.iterationPointer,int):
-            self.headers[self.iterationPointer] = header
-            self.sequences[self.iterationPointer] = sequence
+        if isinstance(self.iterationPointer-1,int):
+            self.headers[self.iterationPointer-1] = header
+            self.sequences[self.iterationPointer-1] = sequence
     
     def verifythis(self,alphabet):
-        if isinstance(self.iterationPointer,int):        
-            return self.verify(alphabet,self.iterationPointer)
+        if isinstance(self.iterationPointer-1,int):        
+            return self.verify(alphabet,self.iterationPointer-1)
 
     def discardthis(self,alphabet):
-        if isinstance(self.iterationPointer,int):
+        if isinstance(self.iterationPointer-1,int):
             if not self.verifythis(alphabet):
                 self.deletethis()
         
@@ -155,12 +153,11 @@ myfasta.load("dna7.fsa")
 # print(myfasta.content(0,-2))
 # myfasta.delete(-2,-1)
 
-# for header, sequence in myfasta:
-#     print(myfasta.verifythis('DNA'))
-#     print(myfasta.iterationPointer)
-#     print(myfasta.headers[myfasta.iterationPointer])
-#     if not myfasta.verifythis("DNA"):
-#         print('here')
-#         myfasta.deletethis()
+for header, sequence in myfasta:
+    print(len(myfasta))
+    print(myfasta.iterationPointer)
+    if not myfasta.verifythis("DNA"):
+        print(header)
+        myfasta.deletethis()
 
 myfasta.save("newfile.fsa")
