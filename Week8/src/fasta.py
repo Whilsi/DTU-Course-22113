@@ -22,12 +22,15 @@ class Fasta:
             raise FileNotFoundError('The file does not exist')
 
     def save(self,filename:str):
-        with open(filename,'w') as outfile:
-            headers,sequences = self.content()
-            for i in range(len(headers)):
-                outfile.write(headers[i]+'\n')
-                for j in range(0,len(sequences[i]),60):
-                    outfile.write(sequences[i][j:j+60]+'\n')
+        if self.headers == [] or self.sequences == []:
+            raise ValueError('There are no headers or sequences')
+        else:
+            with open(filename,'w') as outfile:
+                headers,sequences = self.content()
+                for i in range(len(headers)):
+                    outfile.write(headers[i]+'\n')
+                    for j in range(0,len(sequences[i]),60):
+                        outfile.write(sequences[i][j:j+60]+'\n')
     
     def content(self,start:int = None, end:int = None) -> list[list[str]]:
         if hasattr(self,'headers') and hasattr(self,'sequences'):
