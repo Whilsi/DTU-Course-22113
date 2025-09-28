@@ -1,4 +1,5 @@
-import pytest
+import pytest,sys
+sys.path.append('/home/wsl_ubuntu/DTU/22113/Week8/src')
 from factorial import factorial
 
 def test_1():
