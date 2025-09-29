@@ -1,0 +1,1074 @@
+# Document with the sample ids and the antimicrobials that genes/mutations that confeer resistance to have been detected in the sample
+## Confidential
+reads_ID,ampicillin,cefoxitin,chloramphenicol,ciprofloxacin,gentamicin,nalidixic acid,tetracycline
+SRR3933039_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295834_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,None
+SRR1783160_1.trim.fq.gz,blaTEM-1A (blaTEM-1A_HM749966),None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,tet(B) (tet(B)_AF326777)
+SRR2407621_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,tet(B) (tet(B)_AP000342)
+SRR2407719_1.trim.fq.gz,None,None,None,"aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918), aac(6')-Ib-cr (aac(6')-Ib-cr_EF636461)",None,None,tet(B) (tet(B)_AP000342)
+SRR3295933_1.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaTEM-76 (blaTEM-76_AF190694), blaTEM-186 (blaTEM-186_JN227084)",None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,None
+SRR3932982_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,None
+SRR3932995_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,tet(B) (tet(B)_AP000342)
+SRR1783204_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR2407778_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407788_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407789_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295704_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295946_1.trim.fq.gz,None,None,floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932901_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932904_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933042_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280570_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280571_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280630_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR1185790_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1556071_1.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaTEM-182 (blaTEM-182_HQ317449)",None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR1556097_1.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaTEM-206 (blaTEM-206_KC783461)",None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR1619553_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407698_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295573_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295574_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295803_1.trim.fq.gz,None,None,None,None,None,None,tet(D) (tet(D)_AF467077)
+SRR3295847_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407777_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR2533440_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295854_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1637052_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,None
+SRR1637072_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,None
+SRR2407542_1.trim.fq.gz,None,None,None,qnrS2 (qnrS2_DQ485530),None,None,None
+SRR2407600_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407601_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407610_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407669_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),None,None,None
+SRR3295527_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295637_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,qnrB5 (qnrB5_DQ303919),aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295642_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),qnrB19 (qnrB19_EU432277),aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295652_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,tet(C) (tet(C)_AY046276)
+SRR3295653_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,tet(B) (tet(B)_AF326777)
+SRR3295658_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,tet(C) (tet(C)_AY046276)
+SRR3295666_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,qnrB19 (qnrB19_EU432277),None,None,tet(B) (tet(B)_AF326777)
+SRR3295667_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,tet(C) (tet(C)_AY046276)
+SRR3295689_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,"tet(A) (tet(A)_AJ313332), tet(A) (tet(A)_AF534183)"
+SRR3295750_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,tet(B) (tet(B)_AF326777)
+SRR3295802_1.trim.fq.gz,None,None,None,qnrB19 (qnrB19_EU432277),None,None,None
+SRR3295910_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,qnrB19 (qnrB19_EU432277),None,None,tet(B) (tet(B)_AF326777)
+SRR3295926_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,"floR (floR_AF118107), catA1 (catA1_V00622)",qnrB19 (qnrB19_EU432277),aac(3)-IV (aac(3)-IV_DQ241380),None,tet(G) (tet(G)_AF133140)
+SRR3295934_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),qnrB19 (qnrB19_EU432277),None,None,tet(G) (tet(G)_AF133140)
+SRR3295945_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,qnrB19 (qnrB19_EU432277),None,None,tet(B) (tet(B)_AP000342)
+SRR3932930_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933030_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933036_1.trim.fq.gz,None,None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933071_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918),aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR1752833_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,gyrA (p.S83F),ant(2'')-Ia (ant(2'')-Ia_X04555),gyrA (p.S83F),None
+SRR2407787_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407795_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295599_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932939_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407540_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,floR (floR_AF118107),qnrS2 (qnrS2_DQ485530),aac(3)-IV (aac(3)-IV_DQ241380),None,tet(A) (tet(A)_AF534183)
+SRR3295659_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB56 (qnrB56_JX259317), qnrB68 (qnrB68_KC580657), qnrB82 (qnrB82_KX372672)",None,None,tet(C) (tet(C)_AY046276)
+SRR3295681_1.trim.fq.gz,None,None,None,"qnrB5 (qnrB5_DQ303919), qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB56 (qnrB56_JX259317), qnrB82 (qnrB82_KX372672)",None,None,None
+SRR3295870_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,None
+SRR3295953_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,"qnrB5 (qnrB5_DQ303919), qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB82 (qnrB82_KX372672)",None,None,tet(B) (tet(B)_AF326777)
+SRR1106609_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR1122600_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1272497_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AF055345)
+SRR1300672_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AF055345)
+SRR1544237_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AF055345)
+SRR1553749_1.trim.fq.gz,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(C) (tet(C)_AF055345)"
+SRR1562599_1.trim.fq.gz,blaTEM-1A (blaTEM-1A_HM749966),None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(C) (tet(C)_AY046276)
+SRR1562600_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AY196695), tet(C) (tet(C)_AY046276), tet(C) (tet(C)_AF055345)"
+SRR1813455_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR2407565_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(C) (tet(C)_AF055345)
+SRR3295831_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295878_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932886_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933068_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR1203019_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1220706_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1257300_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1257307_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1514721_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1514724_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1514768_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1525269_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1060582_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1122619_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR1122635_1.trim.fq.gz,None,None,cmlA1 (cmlA1_M64556),None,None,None,None
+SRR1122659_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1181566_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1200748_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR1200761_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR1202997_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1203044_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1220721_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR1299364_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR1300595_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None
+SRR1300663_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None
+SRR1300722_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None
+SRR1514746_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(C) (tet(C)_AY046276)
+SRR1544208_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR1544246_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"ant(2'')-Ia (ant(2'')-Ia_HQ880250), ant(2'')-Ia (ant(2'')-Ia_X04555)",None,None
+SRR1544295_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR1544433_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AF055345)
+SRR1556103_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1574320_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR1598889_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR1636987_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR1783171_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR1805574_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR1805653_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR1813446_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR1946938_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR1951843_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2070987_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407532_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407533_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"cmlA1 (cmlA1_M64556), floR (floR_AF118107)",None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,tet(A) (tet(A)_AF534183)
+SRR2407534_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407535_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407536_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407537_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407538_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407539_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407541_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407543_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407544_1.trim.fq.gz,None,None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR2407545_1.trim.fq.gz,None,None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR2407546_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407547_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407548_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407549_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),cmlA1 (cmlA1_M64556),None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None
+SRR2407550_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR2407551_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2407552_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407553_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407554_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2407555_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407556_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407557_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2407558_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407559_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407560_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407561_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407562_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407563_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407564_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407566_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407567_1.trim.fq.gz,None,None,floR (floR_AF118107),None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR2407568_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407569_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407570_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407571_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407572_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407573_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407574_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407575_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407576_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407577_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407578_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407579_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407580_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407581_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407582_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407583_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407584_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,None
+SRR2407585_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407586_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407587_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407588_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR2407589_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR2407590_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407591_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407592_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407593_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407594_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407595_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407596_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407597_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407598_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407599_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407602_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407603_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407604_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407605_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407606_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407607_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407608_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407609_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407611_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407612_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407613_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407614_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407615_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407616_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR2407617_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407618_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407619_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),gyrA (p.D87N),None,gyrA (p.D87N),tet(A) (tet(A)_AF534183)
+SRR2407620_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407622_1.trim.fq.gz,"blaTEM-1A (blaTEM-1A_HM749966), blaTEM-82 (blaTEM-82_AF427128)",None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407623_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407624_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407625_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407626_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407627_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407628_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407629_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407630_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407631_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407632_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2407633_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407634_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407635_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407636_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407637_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407638_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407639_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407640_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407641_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407642_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407643_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407644_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407645_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR2407646_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR2407647_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407648_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407649_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407650_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407651_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407652_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407653_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407654_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR2407655_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),"cmlA1 (cmlA1_M64556), floR (floR_AF118107)",None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,tet(A) (tet(A)_AF534183)
+SRR2407656_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR2407657_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407658_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),cmlA1 (cmlA1_M64556),None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None
+SRR2407659_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407660_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407662_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR2407663_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407664_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407665_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407666_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407667_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407668_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407670_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407671_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407672_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR2407673_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407674_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407675_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407676_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407677_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407678_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407679_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407680_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407681_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407682_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407683_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407684_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407685_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407686_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407687_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407688_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB81 (qnrB81_KX372671)",None,None,tet(B) (tet(B)_AF326777)
+SRR2407689_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407690_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407691_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407692_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407693_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407694_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407695_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407696_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407697_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407699_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407700_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407701_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407702_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407703_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407704_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407705_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407706_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407707_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407708_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407709_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1C (blaTEM-1C_FJ560503)",blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR2407710_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407711_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407712_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407713_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407714_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407715_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407716_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR2407717_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407718_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407720_1.trim.fq.gz,None,None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AJ517790), tet(C) (tet(C)_AY046276)"
+SRR2407721_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407722_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407723_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407724_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407725_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407726_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407727_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407728_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407729_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407730_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407731_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407732_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407733_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407734_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407735_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407736_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407737_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407738_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407739_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407740_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407741_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407742_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407743_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407744_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2407745_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR2407746_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR2407747_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407748_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407749_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407750_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407751_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407752_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407753_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407754_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407755_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407756_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407757_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407758_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407759_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407760_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407761_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407762_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),"cmlA1 (cmlA1_M64556), floR (floR_AF118107)",None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,tet(A) (tet(A)_AF534183)
+SRR2407763_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407764_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407765_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407766_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR2407767_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407768_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407769_1.trim.fq.gz,blaTEM-1A (blaTEM-1A_HM749966),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407770_1.trim.fq.gz,blaTEM-1A (blaTEM-1A_HM749966),None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR2407771_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407772_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407773_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407774_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407775_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407776_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407779_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR2407780_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407781_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407782_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407783_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407784_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407785_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407786_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2407790_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR2407791_1.trim.fq.gz,blaCTX-M-65 (blaCTX-M-65_EF418608),None,floR (floR_AF118107),gyrA (p.D87Y),aac(3)-IV (aac(3)-IV_DQ241380),gyrA (p.D87Y),tet(A) (tet(A)_AF534183)
+SRR2407792_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407793_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407794_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407796_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407797_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407798_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407799_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2407800_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2407801_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AJ517790)
+SRR2407802_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2532634_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2533435_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR2533438_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2533441_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2533449_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2533556_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR2533558_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR2670703_1.trim.fq.gz,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(C) (tet(C)_AF055345)"
+SRR2724056_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR2724059_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2889981_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(C) (tet(C)_AY046276)
+SRR2912654_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR2979519_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3131144_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),cmlA1 (cmlA1_M64556),None,None,None,None
+SRR3143811_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3219167_1.trim.fq.gz,None,None,cmlA1 (cmlA1_M64556),None,None,None,None
+SRR3223755_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),cmlA1 (cmlA1_M64556),None,None,None,None
+SRR3289810_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295505_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295506_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295507_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295508_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295509_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3295510_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295511_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295512_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295513_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295514_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295515_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295516_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295517_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AJ517790)
+SRR3295518_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295519_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295520_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295521_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295522_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295523_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295524_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295525_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295526_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295528_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295529_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295530_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295531_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295532_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295533_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295534_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295535_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295536_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295537_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295538_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295539_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295540_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295541_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295542_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295543_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295544_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295545_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295546_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295547_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295548_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295549_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295550_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295551_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295552_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295553_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295554_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295555_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295556_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295557_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295558_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295559_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295560_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295561_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295562_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295563_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295564_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295565_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295566_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295567_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295568_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,None
+SRR3295569_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295570_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295571_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295572_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295575_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295576_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295577_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295578_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295579_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295580_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295581_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295582_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295583_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295584_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295585_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295586_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295587_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295588_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295589_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295590_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295591_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295592_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+SRR3295593_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295594_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,None
+SRR3295595_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295596_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295597_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295598_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295600_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295601_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295602_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295603_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295604_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295605_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295606_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295607_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295608_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295609_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295610_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295611_1.trim.fq.gz,None,None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AF534183), tet(C) (tet(C)_AY046276)"
+SRR3295613_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295614_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295615_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295616_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295617_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295618_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,tet(B) (tet(B)_AF326777)
+SRR3295631_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295632_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295633_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295634_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,tet(B) (tet(B)_AF326777)
+SRR3295635_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295636_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295638_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295639_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR3295640_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+SRR3295641_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+SRR3295643_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,armA (armA_AY220558),None,tet(A) (tet(A)_AF534183)
+SRR3295644_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,tet(C) (tet(C)_AY046276)
+SRR3295645_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295646_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295647_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295648_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295649_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295650_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB67 (qnrB67_KC580656), qnrB81 (qnrB81_KX372671), qnrB82 (qnrB82_KX372672)",None,None,tet(C) (tet(C)_AY046276)
+SRR3295651_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295654_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295655_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295656_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295657_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295660_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295661_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB67 (qnrB67_KC580656), qnrB68 (qnrB68_KC580657), qnrB82 (qnrB82_KX372672)",None,None,tet(C) (tet(C)_AY046276)
+SRR3295662_1.trim.fq.gz,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(B) (tet(B)_AF326777)"
+SRR3295663_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295664_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_X00006), tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295665_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295668_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295669_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295670_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295671_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295672_1.trim.fq.gz,"blaTEM-1C (blaTEM-1C_FJ560503), blaTEM-1D (blaTEM-1D_AF188200)",None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295673_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295674_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(B) (tet(B)_AF326777)
+SRR3295675_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295676_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295677_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295678_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295679_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295680_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295682_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295683_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR3295684_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295685_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295686_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295687_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295688_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295690_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295691_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295692_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295693_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295694_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295695_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295696_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295697_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295698_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295699_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295700_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295701_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295702_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295703_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295705_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295706_1.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaSHV-12 (blaSHV-12_KF976405)",None,None,qnrB2 (qnrB2_DQ351242),None,None,tet(D) (tet(D)_AF467077)
+SRR3295707_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ313332), tet(A) (tet(A)_AY196695), tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295708_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295709_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295710_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295711_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295712_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295713_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295714_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295715_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295716_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295717_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295718_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295719_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295720_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ313332), tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295721_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295722_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295723_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295724_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295725_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295726_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB82 (qnrB82_KX372672)",None,None,tet(A) (tet(A)_AF534183)
+SRR3295727_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295728_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295729_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295730_1.trim.fq.gz,"blaTEM-1A (blaTEM-1A_HM749966), blaTEM-1C (blaTEM-1C_FJ560503)",None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295731_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295732_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295733_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295734_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295735_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295736_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295737_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295738_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295739_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295740_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295741_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295742_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295743_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295744_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295745_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295746_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295747_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295748_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295749_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295751_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(B) (tet(B)_AF326777)
+SRR3295752_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295753_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295754_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295755_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295756_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295757_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295758_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295759_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295760_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295761_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295762_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295763_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295764_1.trim.fq.gz,None,None,floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295765_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295766_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AJ419171), tet(A) (tet(A)_AF534183)"
+SRR3295767_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295768_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295769_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295770_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295771_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295772_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295773_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295774_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295775_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295776_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295777_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295778_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295779_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR3295780_1.trim.fq.gz,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(B) (tet(B)_AF326777)"
+SRR3295781_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295782_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295783_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295784_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295785_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295786_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295787_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295788_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295789_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295790_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295791_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295792_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295793_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295794_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR3295795_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295796_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295797_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295798_1.trim.fq.gz,None,None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR3295799_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295800_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295801_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295804_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295805_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295806_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295807_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295808_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295809_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295810_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295811_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295812_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295813_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295815_1.trim.fq.gz,None,None,floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295816_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295817_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295818_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,"tet(A) (tet(A)_AJ517790), tet(C) (tet(C)_AY046276)"
+SRR3295819_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295820_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295821_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295822_1.trim.fq.gz,blaSHV-12 (blaSHV-12_KF976405),None,catA2 (catA2_X53796),None,aac(6')-IIc (aac(6')-IIc_NC_012555),None,tet(D) (tet(D)_AF467077)
+SRR3295823_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AJ517790)
+SRR3295824_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295825_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295826_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295827_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,None,None,None,None,None
+SRR3295828_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295829_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295830_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295832_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295833_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295835_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295837_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295838_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295839_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295840_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295841_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295842_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295843_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295844_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295845_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295846_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295848_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295849_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295850_1.trim.fq.gz,None,None,None,qnrB5 (qnrB5_DQ303919) gyrA (p.S83F),None,gyrA (p.S83F),tet(B) (tet(B)_AP000342)
+SRR3295851_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295852_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295853_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295855_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295856_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295857_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295858_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295859_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295860_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295861_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295862_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295863_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295864_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295865_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295866_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295867_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295868_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295869_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295871_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295872_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295873_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3295874_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295875_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295876_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295877_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,"tet(A) (tet(A)_AF534183), tet(M) (tet(M)_U58985)"
+SRR3295879_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295880_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295881_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295882_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295883_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295884_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295885_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3295886_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295887_1.trim.fq.gz,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(C) (tet(C)_AF055345)"
+SRR3295888_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295889_1.trim.fq.gz,None,None,floR (floR_AF118107),None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,"tet(A) (tet(A)_AF534183), tet(M) (tet(M)_U58985)"
+SRR3295890_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295891_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295893_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3295894_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295895_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295896_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295897_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR3295898_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295899_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+SRR3295900_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295901_1.trim.fq.gz,blaOXA-2 (blaOXA-2_DQ112222),None,catA1 (catA1_V00622),None,None,None,tet(B) (tet(B)_AP000342)
+SRR3295902_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295903_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3295904_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),"cmlA1 (cmlA1_M64556), floR (floR_AF118107)",None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+SRR3295905_1.trim.fq.gz,None,None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR3295906_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295907_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB81 (qnrB81_KX372671), qnrB82 (qnrB82_KX372672)",None,None,tet(B) (tet(B)_AF326777)
+SRR3295908_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295909_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295911_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295913_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295914_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295915_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295916_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295917_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3295918_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295919_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR3295920_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR3295921_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295922_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295923_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295924_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295925_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295927_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295928_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR3295929_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295930_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295931_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295932_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295935_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295936_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295937_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),qnrB19 (qnrB19_EU432277),None,None,tet(A) (tet(A)_AF534183)
+SRR3295938_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295939_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295940_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295941_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,catA1 (catA1_V00622),None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295942_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295943_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295944_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295947_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3295948_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295949_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295950_1.trim.fq.gz,None,None,None,"qnrB19 (qnrB19_EU432277), qnrB81 (qnrB81_KX372671), qnrB82 (qnrB82_KX372672)",None,None,tet(C) (tet(C)_AY046276)
+SRR3295951_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)
+SRR3295952_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295954_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295955_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295956_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295957_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295958_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295959_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295960_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3295961_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295962_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295963_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3295964_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,"qnrB5 (qnrB5_DQ303919), qnrB19 (qnrB19_EU432277), qnrB36 (qnrB36_JN173058), qnrB56 (qnrB56_JX259317), qnrB67 (qnrB67_KC580656), qnrB68 (qnrB68_KC580657), qnrB82 (qnrB82_KX372672)",None,None,tet(B) (tet(B)_AF326777)
+SRR3295965_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3295966_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3295967_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3330375_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3344468_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3665074_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016), blaTEM-128 (blaTEM-128_AY368237)",blaCMY-2 (blaCMY-2_X91840),cmlA1 (cmlA1_M64556),None,"aac(3)-IV (aac(3)-IV_DQ241380), aac(3)-VIa (aac(3)-VIa_NC_009838)",None,tet(B) (tet(B)_AF326777)
+SRR3932880_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3932881_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932882_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932883_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932884_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932885_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932887_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932888_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932889_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932890_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3932891_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932892_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932893_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932895_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932896_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932897_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932898_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932899_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3932900_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932902_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932903_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932905_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932906_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932907_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932908_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932909_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932910_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932911_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932912_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932913_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3932914_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932915_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932916_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932917_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932918_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932919_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932920_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932921_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932922_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932923_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932924_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR3932925_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932926_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932927_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932929_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932931_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932932_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932933_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932934_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932935_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932936_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932938_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932940_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932941_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932942_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932943_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932944_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3932945_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932946_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932948_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932949_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932950_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3932951_1.trim.fq.gz,None,None,floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932952_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932953_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3932954_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3932955_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932956_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3932957_1.trim.fq.gz,None,None,None,None,None,None,tet(C) (tet(C)_AY046276)
+SRR3932958_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932959_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932960_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3932961_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932962_1.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932963_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932964_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3932966_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932967_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932968_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932969_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932970_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932971_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932972_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932973_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3932974_1.trim.fq.gz,None,None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AF534183), tet(C) (tet(C)_AY046276)"
+SRR3932975_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932976_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932977_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932978_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932979_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3932980_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3932981_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932983_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932985_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,"tet(A) (tet(A)_AY196695), tet(A) (tet(A)_AF534183)"
+SRR3932986_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932987_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932989_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3932991_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3932992_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3932993_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932994_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932996_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932997_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3932998_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3932999_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR3933000_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933001_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933002_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933003_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3933004_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933006_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933007_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933008_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933009_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933010_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933011_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR3933012_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933013_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933014_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933015_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933016_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933017_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3933018_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3933019_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933020_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933021_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933022_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933023_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3933024_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933025_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,tet(A) (tet(A)_AF534183)
+SRR3933026_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933027_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933029_1.trim.fq.gz,None,None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,tet(B) (tet(B)_AF326777)
+SRR3933031_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933032_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933033_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933034_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933035_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933037_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933038_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3933040_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933041_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933043_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933044_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933045_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933046_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR3933047_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933049_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933050_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3933051_1.trim.fq.gz,None,None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AF534183), tet(C) (tet(C)_AY046276)"
+SRR3933053_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933056_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933057_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933058_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933059_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933060_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933061_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933062_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933063_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933064_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933065_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933066_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR3933067_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933070_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933073_1.trim.fq.gz,blaCTX-M-1 (blaCTX-M-1_DQ915955),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933074_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933075_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933076_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933077_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933078_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933079_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933080_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR3933081_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR3933082_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR3933083_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933084_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR3933085_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None
+SRR3933086_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280560_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280561_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280562_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280563_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR4280564_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280565_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280566_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280567_1.trim.fq.gz,None,None,None,None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,"tet(A) (tet(A)_AF534183), tet(C) (tet(C)_AF055345)"
+SRR4280568_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280569_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280572_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280573_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280574_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280575_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280576_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280577_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280578_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280579_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280580_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280581_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR4280582_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280583_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280584_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280585_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280586_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280587_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280588_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280589_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280590_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280591_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR4280592_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280593_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280594_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR4280595_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280596_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280597_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280598_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280599_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280600_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280601_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280602_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280603_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None
+SRR4280604_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280605_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280606_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280607_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AJ517790)
+SRR4280608_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280609_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280610_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280612_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR4280613_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280614_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR4280615_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280616_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280617_1.trim.fq.gz,blaCMY-44 (blaCMY-44_FJ437066),blaCMY-44 (blaCMY-44_FJ437066),None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,tet(A) (tet(A)_AF534183)
+SRR4280618_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280619_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280620_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280621_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280622_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280623_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280624_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280625_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280626_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,tet(A) (tet(A)_AF534183)
+SRR4280627_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_X00006), tet(A) (tet(A)_AY196695), tet(A) (tet(A)_AF534183)"
+SRR4280628_1.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,tet(B) (tet(B)_AP000342)
+SRR4280629_1.trim.fq.gz,None,None,None,None,aac(3)-VIa (aac(3)-VIa_NC_009838),None,None
+SRR4280631_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280632_1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),floR (floR_AF118107),None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280634_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280635_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280636_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280637_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280638_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280639_1.trim.fq.gz,None,None,None,None,None,None,None
+SRR4280640_1.trim.fq.gz,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+SRR4280641_1.trim.fq.gz,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280642_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280643_1.trim.fq.gz,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+SRR4280644_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280645_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280646_1.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,tet(A) (tet(A)_AF534183)
+SRR4280647_1.trim.fq.gz,blaCARB-2 (blaCARB-2_M69058),None,floR (floR_AF118107),None,None,None,tet(G) (tet(G)_AF133140)

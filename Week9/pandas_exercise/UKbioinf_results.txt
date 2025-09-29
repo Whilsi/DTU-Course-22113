@@ -1,0 +1,102 @@
+# Document with the sample ids and the antimicrobials that genes/mutations that confeer resistance to have been detected in the sample
+## Confidential
+reads_ID,ampicillin,cefotaxime,ciprofloxacin,colistin,gentamicin,imipenem,meropenem,nalidixic acid,tetracycline
+MSG50-C16_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+RB20_S8_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"qnrS1 (qnrS1_AB187515), aac(6')-Ib-cr (aac(6')-Ib-cr_DQ303918) gyrA (p.S83L)",mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG43-C17_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,tet(B) (tet(B)_AP000342)
+MSG07-C02_R1_001.trim.fq.gz,ampC_promoter_size_53bp (g.-42C>T),ampC_promoter_size_53bp (g.-42C>T),None,None,None,None,None,None,None
+RB11_S6_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,gyrA (p.S83L),tet(C) (tet(C)_AY046276)
+RB15_S7_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,gyrA (p.S83L),tet(C) (tet(C)_AY046276)
+RB2_S3_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),"mcr-1.1 (mcr-1.1_KP347127), mcr-3.5 (mcr-3.5_MF489760)","aac(3)-IId (aac(3)-IId_EU022314), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(B) (tet(B)_AF326777)
+RB32_S11_L001_R1_001.trim.fq.gz,"blaTEM-1A (blaTEM-1A_HM749966), blaTEM-1B (blaTEM-1B_AY458016)",None,"gyrA (p.S83L), parC (p.A56T)",mcr-1.1 (mcr-1.1_KP347127),"aac(3)-IId (aac(3)-IId_EU022314), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(A) (tet(A)_AF534183)
+RB5_S4_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),"mcr-1.1 (mcr-1.1_KP347127), mcr-3.5 (mcr-3.5_MF489760)","aac(3)-IId (aac(3)-IId_EU022314), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(B) (tet(B)_AF326777)
+RB8_S5_L001_R1_001.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),gyrA (p.S83L),"mcr-1.1 (mcr-1.1_KP347127), mcr-3.5 (mcr-3.5_MF489760)",aac(3)-IV (aac(3)-IV_DQ241380),None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG04-C10_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IV (aac(3)-IV_DQ241380),None,None,None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+MSG41-C07_R1_001.trim.fq.gz,"blaTEM-106 (blaTEM-106_AY101578), blaTEM-135 (blaTEM-135_GQ896333)",blaTEM-106 (blaTEM-106_AY101578),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG44-C06_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,"tet(C) (tet(C)_AY046276), tet(C) (tet(C)_AF055345)"
+MSG53-C03_R1_001.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None,None,tet(M) (tet(M)_X75073)
+E4_S1_L001_R1.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),gyrA (p.S83L),"mcr-1.1 (mcr-1.1_KP347127), mcr-3.5 (mcr-3.5_MF489760)",aac(3)-IV (aac(3)-IV_DQ241380),None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG01-C02_R1_001.trim.fq.gz,"blaCTX-M-1 (blaCTX-M-1_DQ915955), blaTEM-1B (blaTEM-1B_AY458016)",blaCTX-M-1 (blaCTX-M-1_DQ915955),None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG01-C06_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG01-C08_R1_001.trim.fq.gz,"blaTEM-1A (blaTEM-1A_HM749966), blaTEM-1B (blaTEM-1B_AY458016), blaTEM-1C (blaTEM-1C_FJ560503)",None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),None
+MSG02-C05_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrB19 (qnrB19_EU432277),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,None,tet(A) (tet(A)_AF534183)
+MSG02-C13_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrB19 (qnrB19_EU432277),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,None,tet(A) (tet(A)_AF534183)
+MSG03-C04_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)","tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG04-C13_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG06-C03_R1_001.trim.fq.gz,"blaTEM-1A (blaTEM-1A_HM749966), blaTEM-1B (blaTEM-1B_AY458016)",None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(B) (tet(B)_AF326777)
+MSG07-C13_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG08-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG08-C09_R1_001.trim.fq.gz,None,None,qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(B) (tet(B)_AF326777)
+MSG10-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,"aac(3)-IId (aac(3)-IId_EU022314), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,gyrA (p.S83L),"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG10-C10_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG11-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),None
+MSG11-C14_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG12-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG12-C13_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,tet(B) (tet(B)_AF326777)
+MSG13-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,aac(3)-IId (aac(3)-IId_EU022314),None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG13-C12_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"qnrS1 (qnrS1_AB187515) gyrA (p.S83L), parC (p.A56T)",None,aac(3)-IId (aac(3)-IId_EU022314),None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG14-C10_R1_001.trim.fq.gz,blaTEM-1C (blaTEM-1C_FJ560503),None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG14-C11_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrB2 (qnrB2_DQ351242),None,None,None,None,None,"tet(A) (tet(A)_AY196695), tet(A) (tet(A)_AF534183)"
+MSG15-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG16-C14_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG17-C19_R1_001.trim.fq.gz,"blaCTX-M-1 (blaCTX-M-1_DQ915955), blaTEM-1B (blaTEM-1B_AY458016)",blaCTX-M-1 (blaCTX-M-1_DQ915955),"gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG17-C20_R1_001.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaCTX-M-15 (blaCTX-M-15_AY044436)",blaCTX-M-15 (blaCTX-M-15_AY044436),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG18-C01_R1_001.trim.fq.gz,ampC_promoter_size_53bp (g.-42C>T),ampC_promoter_size_53bp (g.-42C>T),gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),None
+MSG19-C16_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,tet(D) (tet(D)_AF467077)
+MSG20-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG20-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,aac(3)-IId (aac(3)-IId_EU022314),None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG21-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,aac(3)-IId (aac(3)-IId_EU022314),None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG22-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG22-C13_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG23-C03_R1_001.trim.fq.gz,blaCTX-M-1 (blaCTX-M-1_DQ915955),blaCTX-M-1 (blaCTX-M-1_DQ915955),None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG24-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)","tet(A) (tet(A)_AJ517790), tet(B) (tet(B)_AF326777)"
+MSG25-C01_R1_001.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+MSG25-C02_R1_001.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)","tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+MSG25-C03_R1_001.trim.fq.gz,"blaCMY-2 (blaCMY-2_X91840), blaTEM-1B (blaTEM-1B_AY458016)",blaCMY-2 (blaCMY-2_X91840),gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)","tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+MSG25-C19_R1_001.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaCTX-M-15 (blaCTX-M-15_AY044436)",blaCTX-M-15 (blaCTX-M-15_AY044436),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG25-C20_R1_001.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaCTX-M-15 (blaCTX-M-15_AY044436)",blaCTX-M-15 (blaCTX-M-15_AY044436),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG26-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS1 (qnrS1_AB187515) gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(B) (tet(B)_AF326777)
+MSG26-C14_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+MSG29-C17_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG30-C17_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG31-C07_R1_001.trim.fq.gz,None,None,qnrS1 (qnrS1_AB187515),None,aac(3)-IV (aac(3)-IV_DQ241380),None,None,None,None
+MSG32-C10_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,"gyrA (p.S83L), gyrA (p.D87N)","tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+MSG32-C14_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG33-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,aac(3)-IId (aac(3)-IId_EU022314),None,None,None,tet(A) (tet(A)_AF534183)
+MSG33-C08_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG34-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG35-C01_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016) ampC_promoter_size_53bp (g.-42C>T),ampC_promoter_size_53bp (g.-42C>T),gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG35-C14_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,tet(B) (tet(B)_AF326777)
+MSG37-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrB19 (qnrB19_EU432277),None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG37-C09_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,"gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG37-C13_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG38-C04_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG38-C06_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG38-C13_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG40-C07_R1_001.trim.fq.gz,blaTEM-135 (blaTEM-135_GQ896333),None,qnrS1 (qnrS1_AB187515),None,None,None,None,None,"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG40-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS1 (qnrS1_AB187515),None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,tet(A) (tet(A)_AY196695)
+MSG41-C09_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS1 (qnrS1_AB187515) gyrA (p.S83L),None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG42-C12_R1_001.trim.fq.gz,None,None,gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(A) (tet(A)_AF534183)
+MSG42-C18_R1_001.trim.fq.gz,blaTEM-1D (blaTEM-1D_AF188200),None,None,None,None,None,None,None,tet(B) (tet(B)_AF326777)
+MSG43-C01_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016) ampC_promoter_size_53bp (g.-42C>T),ampC_promoter_size_53bp (g.-42C>T),None,None,None,None,None,None,"tet(A) (tet(A)_AF534183), tet(B) (tet(B)_AF326777)"
+MSG43-C02_R1_001.trim.fq.gz,"blaCTX-M-1 (blaCTX-M-1_DQ915955), blaTEM-1B (blaTEM-1B_AY458016)",blaCTX-M-1 (blaCTX-M-1_DQ915955),None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG43-C18_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,tet(B) (tet(B)_AF326777)
+MSG45-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(A) (tet(A)_AF534183)
+MSG49-C01_R1_001.trim.fq.gz,blaCTX-M-1 (blaCTX-M-1_DQ915955),blaCTX-M-1 (blaCTX-M-1_DQ915955),None,None,None,None,None,None,None
+MSG49-C07_R1_001.trim.fq.gz,blaTEM-1D (blaTEM-1D_AF188200),None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(B) (tet(B)_AF326777)
+MSG50-C07_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,gyrA (p.S83L),tet(B) (tet(B)_AF326777)
+MSG50-C08_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,ant(2'')-Ia (ant(2'')-Ia_X04555),None,None,gyrA (p.S83L),None
+MSG50-C13_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,None,"aac(3)-IVa (aac(3)-IVa_X01385), aac(3)-IV (aac(3)-IV_DQ241380)",None,None,None,tet(A) (tet(A)_AF534183)
+MSG51-C05_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG51-C16_R1_001.trim.fq.gz,None,None,None,None,None,None,None,None,None
+MSG52-C09_R1_001.trim.fq.gz,None,None,gyrA (p.S83L),None,None,None,None,gyrA (p.S83L),tet(B) (tet(B)_AF326777)
+MSG52-C11_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,aac(3)-IId (aac(3)-IId_EU022314),None,None,gyrA (p.S83L),"tet(A) (tet(A)_AJ517790), tet(A) (tet(A)_AF534183)"
+MSG53-C01_R1_001.trim.fq.gz,blaSHV-12 (blaSHV-12_KF976405),blaSHV-12 (blaSHV-12_KF976405),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG53-C02_R1_001.trim.fq.gz,blaCMY-2 (blaCMY-2_X91840),blaCMY-2 (blaCMY-2_X91840),None,None,None,None,None,None,None
+MSG53-C09_R1_001.trim.fq.gz,blaSHV-12 (blaSHV-12_KF976405),blaSHV-12 (blaSHV-12_KF976405),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG55-C03_R1_001.trim.fq.gz,blaSHV-12 (blaSHV-12_KF976405),blaSHV-12 (blaSHV-12_KF976405),"qnrS1 (qnrS1_AB187515) gyrA (p.S83L), parC (p.A56T)",None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N), parC (p.A56T)",tet(B) (tet(B)_AF326777)
+MSG55-C06_R1_001.trim.fq.gz,"blaTEM-1B (blaTEM-1B_AY458016), blaSHV-12 (blaSHV-12_KF976405)",blaSHV-12 (blaSHV-12_KF976405),qnrS1 (qnrS1_AB187515),None,None,None,None,None,tet(A) (tet(A)_AF534183)
+MSG56-C12_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,gyrA (p.S83L),None,None,None,None,"gyrA (p.S83L), gyrA (p.D87N)",tet(B) (tet(B)_AF326777)
+RB25_S9_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS2 (qnrS2_DQ485530),mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,None,tet(A) (tet(A)_AF534183)
+RB28_S10_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,None,mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,None,tet(B) (tet(B)_AF326777)
+RB39_S12_L001_R1_001.trim.fq.gz,blaTEM-1B (blaTEM-1B_AY458016),None,qnrS2 (qnrS2_DQ485530),mcr-1.1 (mcr-1.1_KP347127),aac(3)-IV (aac(3)-IV_DQ241380),None,None,None,tet(A) (tet(A)_AF534183)
