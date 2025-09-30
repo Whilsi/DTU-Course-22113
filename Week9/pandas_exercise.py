@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 BE_ids_df = pd.read_csv('pandas_exercise/BE_ids.txt',sep='\t',skiprows=2,index_col=0)
 BE_ids_df['country'] = 'Belgium'
@@ -40,17 +41,28 @@ for key in USAlab_results_df.keys():
 
 results_df = pd.concat([BElab_results_df,DElab_results_df,DKlab_results_df,UKlab_results_df,USAlab_results_df])
 
-BEbioinf_results_df = pd.read_csv('pandas_exercise/BEbioinf_results.txt',sep='\t',skiprows=1,index_col=0)
+BEbioinf_results_df = pd.read_csv('pandas_exercise/BEbioinf_results.txt',sep='\t',skiprows=1)
 BEbioinf_results_df['country'] = 'Belgium'
-DKbioinf_results_df = pd.read_csv('pandas_exercise/DKbioinf_results.txt',sep='\t',skiprows=1,index_col=0)
+DKbioinf_results_df = pd.read_csv('pandas_exercise/DKbioinf_results.txt',sep='\t',skiprows=1)
 DKbioinf_results_df['country'] = 'Denmark'
-DEbioinf_results_df = pd.read_csv('pandas_exercise/DEbioinf_results.txt',sep='\t',skiprows=1,index_col=0)
+DEbioinf_results_df = pd.read_csv('pandas_exercise/DEbioinf_results.txt',sep='\t',skiprows=1)
 DEbioinf_results_df['country'] = 'Germany'
-UKbioinf_results_df = pd.read_csv('pandas_exercise/UKbioinf_results.txt',sep=',',skiprows=2,index_col=0)
+UKbioinf_results_df = pd.read_csv('pandas_exercise/UKbioinf_results.txt',sep=',',skiprows=2)
 UKbioinf_results_df['country'] = 'UK'
-USAbioinf_results_df = pd.read_csv('pandas_exercise/USAbioinf_results.txt',sep=',',skiprows=2,index_col=0)
+USAbioinf_results_df = pd.read_csv('pandas_exercise/USAbioinf_results.txt',sep=',',skiprows=2)
 USAbioinf_results_df['country'] = 'USA'
 
 bioinf_results_df = pd.concat([BEbioinf_results_df,DEbioinf_results_df,DKbioinf_results_df,UKbioinf_results_df,USAbioinf_results_df])
 
-print(bioinf_results_df.head())
+complete_df = ids_df.merge(results_df,on=['sample_ID','country']).merge(bioinf_results_df,on=['reads_ID','country'],suffixes=(None,'_bioinfo'))
+
+NaN_columns = complete_df.columns[complete_df[complete_df['country'] == 'USA'].isna().all()].tolist()
+
+i = 0
+while i < len(NaN_columns):
+    if '_bioinfo' in NaN_columns[i]:
+        NaN_columns.pop(i)
+    else:
+        i += 1 
+
+complete_df[complete_df['country'] == 'USA'][ids_df.columns.tolist() + NaN_columns].to_csv('resfinder_project.tsv',sep = '\t',index=False)
